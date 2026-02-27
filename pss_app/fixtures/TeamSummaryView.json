@@ -1,0 +1,695 @@
+[
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 1,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 46,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "Strategies"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 2,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 49,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "Information and Assessments"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 3,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 54,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "Infrastructure"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 4,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 68,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "Policy and Integrity"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 5,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 69,
+        "team": 1,
+        "show_in_summary": false,
+        "display_text": "Regulatory Policy"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 6,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 70,
+        "team": 1,
+        "show_in_summary": false,
+        "display_text": "Development Cooperation"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 7,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 71,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "Public Sector Integrity"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 8,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 72,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "Whistle-blower Protection"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 9,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 30,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "Adequacy of financial flows"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 10,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 32,
+        "team": 1,
+        "show_in_summary": false,
+        "display_text": "Accountability"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 11,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 37,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "Funding Sources"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 12,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 39,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "Financing for equity"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 13,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 10,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "Policy for equity"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 14,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 12,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "Coordination & cooperation"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 15,
+    "fields": {
+        "question_type": 186,
+        "question_category_type": null,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "Awareness"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 16,
+    "fields": {
+        "question_type": 245,
+        "question_category_type": null,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "National policy"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 18,
+    "fields": {
+        "question_type": 253,
+        "question_category_type": null,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "Governance"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 19,
+    "fields": {
+        "question_type": 265,
+        "question_category_type": null,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "Organisation mainstreaming"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 20,
+    "fields": {
+        "question_type": 11,
+        "question_category_type": null,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "Overall current capacity"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 21,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 46,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "Strategies"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 22,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 49,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "Information and Assessments"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 23,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 54,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "Infrastructure"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 24,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 68,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "Policy and Integrity"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 25,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 69,
+        "team": 2,
+        "show_in_summary": false,
+        "display_text": "Regulatory Policy"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 26,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 70,
+        "team": 2,
+        "show_in_summary": false,
+        "display_text": "Development Cooperation"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 27,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 71,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "Public Sector Integrity"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 28,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 72,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "Whistle-blower Protection"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 29,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 30,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "Adequacy of financial flows"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 30,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 32,
+        "team": 2,
+        "show_in_summary": false,
+        "display_text": "Accountability"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 31,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 37,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "Funding Sources"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 32,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 39,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "Financing for equity"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 33,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 10,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "Policy for equity"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 34,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 12,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "Coordination & cooperation"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 35,
+    "fields": {
+        "question_type": 186,
+        "question_category_type": null,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "Awareness"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 36,
+    "fields": {
+        "question_type": 245,
+        "question_category_type": null,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "National policy"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 37,
+    "fields": {
+        "question_type": 253,
+        "question_category_type": null,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "Governance"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 38,
+    "fields": {
+        "question_type": 265,
+        "question_category_type": null,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "Organisation mainstreaming"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 39,
+    "fields": {
+        "question_type": 11,
+        "question_category_type": null,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "Overall current capacity"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 40,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 2,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "Strengthening mechanisms"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 41,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 3,
+        "team": 2,
+        "show_in_summary": true,
+        "display_text": "Overall Progress"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 42,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 46,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "Strategies"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 43,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 49,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "Information and Assessments"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 44,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 54,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "Infrastructure"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 45,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 68,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "Policy and Integrity"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 46,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 69,
+        "team": 3,
+        "show_in_summary": false,
+        "display_text": "Regulatory Policy"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 47,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 70,
+        "team": 3,
+        "show_in_summary": false,
+        "display_text": "Development Cooperation"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 48,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 71,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "Public Sector Integrity"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 49,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 72,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "Whistle-blower Protection"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 50,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 30,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "Adequacy of financial flows"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 51,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 32,
+        "team": 3,
+        "show_in_summary": false,
+        "display_text": "Accountability"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 52,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 37,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "Funding Sources"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 53,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 39,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "Financing for equity"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 54,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 10,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "Policy for equity"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 55,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 12,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "Coordination & cooperation"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 56,
+    "fields": {
+        "question_type": 186,
+        "question_category_type": null,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "Awareness"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 57,
+    "fields": {
+        "question_type": 245,
+        "question_category_type": null,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "National policy"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 58,
+    "fields": {
+        "question_type": 253,
+        "question_category_type": null,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "Governance"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 59,
+    "fields": {
+        "question_type": 265,
+        "question_category_type": null,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "Organisation mainstreaming"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 60,
+    "fields": {
+        "question_type": 11,
+        "question_category_type": null,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "Overall current capacity"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 61,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 2,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "Strengthening mechanisms"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 62,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 3,
+        "team": 3,
+        "show_in_summary": true,
+        "display_text": "Overall Progress"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 63,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 2,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "Strengthening mechanisms"
+    }
+},
+{
+    "model": "pss_app.teamsummaryview",
+    "pk": 64,
+    "fields": {
+        "question_type": null,
+        "question_category_type": 3,
+        "team": 1,
+        "show_in_summary": true,
+        "display_text": "Overall Progress"
+    }
+}
+]

@@ -1,0 +1,66 @@
+[
+{
+    "model": "pss_app.sdgcomponents",
+    "pk": 1,
+    "fields": {
+        "label_id": "",
+        "name": "National Capacity"
+    }
+},
+{
+    "model": "pss_app.sdgcomponents",
+    "pk": 2,
+    "fields": {
+        "label_id": "",
+        "name": "Policy & Institutional"
+    }
+},
+{
+    "model": "pss_app.sdgcomponents",
+    "pk": 3,
+    "fields": {
+        "label_id": "",
+        "name": "extra"
+    }
+},
+{
+    "model": "pss_app.sdgcomponents",
+    "pk": 4,
+    "fields": {
+        "label_id": "",
+        "name": "Finance"
+    }
+},
+{
+    "model": "pss_app.sdgcomponents",
+    "pk": 5,
+    "fields": {
+        "label_id": "",
+        "name": "DRR/Resilience"
+    }
+},
+{
+    "model": "pss_app.sdgcomponents",
+    "pk": 6,
+    "fields": {
+        "label_id": "",
+        "name": "Gender Mainstreaming"
+    }
+},
+{
+    "model": "pss_app.sdgcomponents",
+    "pk": 7,
+    "fields": {
+        "label_id": "",
+        "name": "Integrity"
+    }
+},
+{
+    "model": "pss_app.sdgcomponents",
+    "pk": 8,
+    "fields": {
+        "label_id": "",
+        "name": "Status"
+    }
+}
+]

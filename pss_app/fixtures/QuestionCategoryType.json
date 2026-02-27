@@ -1,0 +1,1396 @@
+[
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 1,
+    "fields": {
+        "label_id": null,
+        "name": "c1",
+        "component": 1,
+        "order": 1,
+        "average": true,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": null,
+        "display_text": "Capacity: Priority Needs",
+        "default_option": 4,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 2,
+    "fields": {
+        "label_id": null,
+        "name": "c3",
+        "component": 1,
+        "order": 3,
+        "average": false,
+        "positive_response_percent": true,
+        "aggregate_title": null,
+        "category_group": "Capacity mechanisms",
+        "display_text": "Capacity Mechanisms",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 3,
+    "fields": {
+        "label_id": null,
+        "name": "c4",
+        "component": 1,
+        "order": 4,
+        "average": true,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": null,
+        "display_text": "Progress - On track?",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 4,
+    "fields": {
+        "label_id": "C2",
+        "name": "c2",
+        "component": 1,
+        "order": 2,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Capacity: Priority Needs",
+        "display_text": null,
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 5,
+    "fields": {
+        "label_id": null,
+        "name": "p1",
+        "component": 2,
+        "order": 1,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Institutions",
+        "display_text": "1. At National level, how are water policy roles and responsibilities allocated for this target/indicator?",
+        "default_option": 0,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 6,
+    "fields": {
+        "label_id": null,
+        "name": "p2",
+        "component": 2,
+        "order": 2,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Institutions",
+        "display_text": "2. Are institutions considering structural or other changes to achieve this indicator?",
+        "default_option": 3,
+        "default_value": "0"
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 7,
+    "fields": {
+        "label_id": null,
+        "name": "p3",
+        "component": 2,
+        "order": 3,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Roles and Responsibilities & Implementation",
+        "display_text": "3. How are the roles of all interested Ministries, agencies, institutions etc. coordinated at central government level for this target?",
+        "default_option": 2,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 8,
+    "fields": {
+        "label_id": null,
+        "name": "p4",
+        "component": 2,
+        "order": 4,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Roles and Responsibilities & Implementation",
+        "display_text": "4. At National level, how are water policy roles and responsibilities defined for this target/indicator?",
+        "default_option": 4,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 9,
+    "fields": {
+        "label_id": null,
+        "name": "p5",
+        "component": 2,
+        "order": 5,
+        "average": false,
+        "positive_response_percent": true,
+        "aggregate_title": "Proportion of Positive Response for 'Existing Policy'",
+        "category_group": "Roles and Responsibilities & Implementation",
+        "display_text": "5. Do National policies and implementation plans exist for this target, and to what is the level of implementation?",
+        "default_option": 2,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 10,
+    "fields": {
+        "label_id": null,
+        "name": "p6",
+        "component": 2,
+        "order": 6,
+        "average": false,
+        "positive_response_percent": true,
+        "aggregate_title": "Proportion of positive responses for 'policy for equity'",
+        "category_group": "Roles and Responsibilities & Implementation",
+        "display_text": "6. Do National policies have specific measures to reach the following population groups?",
+        "default_option": 2,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 11,
+    "fields": {
+        "label_id": null,
+        "name": "p7",
+        "component": 2,
+        "order": 7,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Coordination and Cooperation",
+        "display_text": "7. What are the existing mechanisms used for coordination between lead central and subnational Government bodies in policy-making for this target?",
+        "default_option": 2,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 12,
+    "fields": {
+        "label_id": null,
+        "name": "p8",
+        "component": 2,
+        "order": 8,
+        "average": false,
+        "positive_response_percent": true,
+        "aggregate_title": "Proportion of positive responses for 'coordination and cooperation'",
+        "category_group": "Coordination and Cooperation",
+        "display_text": "8. At National government level, what are the most frequent obstacles to effective coordination between different bodies for this target?",
+        "default_option": 4,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 13,
+    "fields": {
+        "label_id": null,
+        "name": "p9",
+        "component": 2,
+        "order": 9,
+        "average": false,
+        "positive_response_percent": true,
+        "aggregate_title": "Proportion of positive responses for 'governance for policy challenges'",
+        "category_group": "Coordination and Cooperation",
+        "display_text": "9. At central Government level, what are the main governance challenges in water policy-making?",
+        "default_option": 4,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 14,
+    "fields": {
+        "label_id": null,
+        "name": "p10",
+        "component": 2,
+        "order": 10,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Coordination and Cooperation",
+        "display_text": "10. Has the lead Government  Ministry/Institution developed  mechanisms for cooperation with  private institutions or business entrepreneurs that could contribute to the achievement of this targets?",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 15,
+    "fields": {
+        "label_id": null,
+        "name": "p11",
+        "component": 2,
+        "order": 11,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Coordination and Cooperation",
+        "display_text": "11. What level of cooperation  between your country and other country/countries exists to exchange information and learn from each other\u2019s experiences in achieving this target?",
+        "default_option": 4,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 16,
+    "fields": {
+        "label_id": null,
+        "name": "p12",
+        "component": 2,
+        "order": 12,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Coordination and Cooperation",
+        "display_text": "12. How many development partners (donors, NGOs, International Organisations etc.) are participating in the National Government-led sector coordination framework for this target/indicator?",
+        "default_option": 0,
+        "default_value": "0"
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 17,
+    "fields": {
+        "label_id": null,
+        "name": "p13",
+        "component": 2,
+        "order": 13,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Awareness",
+        "display_text": "13. How many planning events - for example, meetings, workshops, conferences, and/or stakeholder consultations - have been organised by the government for awareness and planning?",
+        "default_option": 0,
+        "default_value": "0"
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 18,
+    "fields": {
+        "label_id": null,
+        "name": "p14",
+        "component": 2,
+        "order": 14,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Awareness",
+        "display_text": "14. How is public awareness rated, on a national level for this target?",
+        "default_option": 4,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 19,
+    "fields": {
+        "label_id": "",
+        "name": "extra",
+        "component": 3,
+        "order": 1,
+        "average": true,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "1",
+        "display_text": null,
+        "default_option": 0,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 20,
+    "fields": {
+        "label_id": null,
+        "name": "f1",
+        "component": 4,
+        "order": 1,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Adequacy of financial flows to meet target in 2016",
+        "display_text": "Total expense estimate  to reach indicator in 2030 ('000,000 USD)",
+        "default_option": 0,
+        "default_value": "0"
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 21,
+    "fields": {
+        "label_id": null,
+        "name": "f2",
+        "component": 4,
+        "order": 2,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Adequacy of financial flows to meet target in 2016",
+        "display_text": "Total available funds - 2016 ('000,000 USD",
+        "default_option": 0,
+        "default_value": "0"
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 22,
+    "fields": {
+        "label_id": null,
+        "name": "f3",
+        "component": 4,
+        "order": 3,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Adequacy of financial flows to meet target in 2016",
+        "display_text": "Funding needed - 2016 ('000,000 USD)",
+        "default_option": 0,
+        "default_value": "0"
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 23,
+    "fields": {
+        "label_id": null,
+        "name": "f4",
+        "component": 4,
+        "order": 4,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Adequacy of financial flows to meet target in 2016",
+        "display_text": "Publicly available budget?",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 24,
+    "fields": {
+        "label_id": null,
+        "name": "f5",
+        "component": 4,
+        "order": 5,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Adequacy of financial flows to meet target in 2016",
+        "display_text": "Publicly available expenditure?",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 25,
+    "fields": {
+        "label_id": null,
+        "name": "f6",
+        "component": 4,
+        "order": 6,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Adequacy of financial flows to meet target in 2016",
+        "display_text": "Actual vs committed expenditure",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 26,
+    "fields": {
+        "label_id": null,
+        "name": "f7",
+        "component": 4,
+        "order": 7,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Adequacy of financial flows to meet target in 2016",
+        "display_text": "Utilization of donor capital",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 27,
+    "fields": {
+        "label_id": null,
+        "name": "f8",
+        "component": 4,
+        "order": 8,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Adequacy of financial flows to meet target in 2016",
+        "display_text": "Utilization of domestic capital",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 28,
+    "fields": {
+        "label_id": null,
+        "name": "f9",
+        "component": 4,
+        "order": 9,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Adequacy of financial flows to meet target in 2016",
+        "display_text": "Guidance documents",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 29,
+    "fields": {
+        "label_id": null,
+        "name": "f10",
+        "component": 4,
+        "order": 10,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Adequacy of financial flows to meet target in 2016",
+        "display_text": "Pipeline of projects",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 30,
+    "fields": {
+        "label_id": null,
+        "name": "f11",
+        "component": 4,
+        "order": 11,
+        "average": false,
+        "positive_response_percent": true,
+        "aggregate_title": null,
+        "category_group": "Adequacy of financial flows to meet target in 2016",
+        "display_text": "Multi-year budget allocation",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 31,
+    "fields": {
+        "label_id": null,
+        "name": "f12",
+        "component": 4,
+        "order": 12,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Adequacy of financial flows to meet target in 2016",
+        "display_text": "Interests of citizens",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 32,
+    "fields": {
+        "label_id": null,
+        "name": "f13",
+        "component": 4,
+        "order": 13,
+        "average": false,
+        "positive_response_percent": true,
+        "aggregate_title": null,
+        "category_group": "Accountability",
+        "display_text": null,
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 33,
+    "fields": {
+        "label_id": null,
+        "name": "f14",
+        "component": 4,
+        "order": 14,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Attracting funding sources in 2016",
+        "display_text": "Public allocations",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 34,
+    "fields": {
+        "label_id": null,
+        "name": "f15",
+        "component": 4,
+        "order": 15,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Attracting funding sources in 2016",
+        "display_text": "Percentage of ODA",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 35,
+    "fields": {
+        "label_id": null,
+        "name": "f16",
+        "component": 4,
+        "order": 16,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Attracting funding sources in 2016",
+        "display_text": "Bond market?",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 36,
+    "fields": {
+        "label_id": null,
+        "name": "f17",
+        "component": 4,
+        "order": 17,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Attracting funding sources in 2016",
+        "display_text": "Financial mechanisms",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 37,
+    "fields": {
+        "label_id": null,
+        "name": "f18",
+        "component": 4,
+        "order": 18,
+        "average": false,
+        "positive_response_percent": true,
+        "aggregate_title": null,
+        "category_group": "Attracting funding sources in 2016",
+        "display_text": "Frameworks",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 38,
+    "fields": {
+        "label_id": null,
+        "name": "f19",
+        "component": 4,
+        "order": 19,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Financial Planning to ensure equitable progress towards SDGs",
+        "display_text": "Incentives",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 39,
+    "fields": {
+        "label_id": null,
+        "name": "f20",
+        "component": 4,
+        "order": 20,
+        "average": false,
+        "positive_response_percent": true,
+        "aggregate_title": null,
+        "category_group": "Financial Planning to ensure equitable progress towards SDGs",
+        "display_text": null,
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 40,
+    "fields": {
+        "label_id": null,
+        "name": "r1",
+        "component": 5,
+        "order": 1,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Disaster Risk Reduction Strategies",
+        "display_text": "E-1) Have National DRR strategies been adopted and implemented in line with the Sendai Framework for DRR 2015-2030?",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 41,
+    "fields": {
+        "label_id": null,
+        "name": "r2",
+        "component": 5,
+        "order": 2,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Disaster Risk Reduction Strategies",
+        "display_text": "E-3) Has climate change adaption and/or DRR been integrated into national development planning relevant to this indicator?",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 42,
+    "fields": {
+        "label_id": null,
+        "name": "r3",
+        "component": 5,
+        "order": 3,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Disaster Risk Reduction Strategies",
+        "display_text": "E-9) Are there national financing mechanisms for DRR relevant for this indicator?",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 43,
+    "fields": {
+        "label_id": null,
+        "name": "r4",
+        "component": 5,
+        "order": 4,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Disaster Risk Reduction Strategies",
+        "display_text": "E-7)  Are lead agencies conducting (independent) periodic outcome reviews of the implementation of national and local DRR strategies relevant to this indicator?",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 44,
+    "fields": {
+        "label_id": null,
+        "name": "r5",
+        "component": 5,
+        "order": 5,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Disaster Risk Reduction Strategies",
+        "display_text": "E-8) Have sector specific DRR strategies been adopted and implemented  in line with the Sendai Framework for DRR?",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 45,
+    "fields": {
+        "label_id": null,
+        "name": "r6",
+        "component": 5,
+        "order": 6,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Disaster Risk Reduction Strategies",
+        "display_text": "E-5) Have cross-sectoral bodies/forums been formed that have  clear roles and responsibilities identified across state institutions, civil society, private sector and international actors , for the implementation and review of DRR measures for this indica",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 46,
+    "fields": {
+        "label_id": null,
+        "name": "r7",
+        "component": 5,
+        "order": 7,
+        "average": false,
+        "positive_response_percent": true,
+        "aggregate_title": null,
+        "category_group": "Disaster Risk Reduction Strategies",
+        "display_text": "E10. Do lead agencies have spatial and land use planning mechanisms for DRR?",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 47,
+    "fields": {
+        "label_id": null,
+        "name": "r8",
+        "component": 5,
+        "order": 8,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Disaster Risk Information and Assessments",
+        "display_text": "G5 Are multi-hazard national risk assessments or information available, with results in an accessible, understandable and usable format  for stakeholders and the public?",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 48,
+    "fields": {
+        "label_id": null,
+        "name": "r9",
+        "component": 5,
+        "order": 9,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Disaster Risk Information and Assessments",
+        "display_text": "G 10. Do lead agencies for this indicator have  open data policies and mechanisms to make hazard and risk data accessible and available to all users",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 49,
+    "fields": {
+        "label_id": null,
+        "name": "r10",
+        "component": 5,
+        "order": 10,
+        "average": false,
+        "positive_response_percent": true,
+        "aggregate_title": null,
+        "category_group": "Disaster Risk Information and Assessments",
+        "display_text": "G14. Does the lead agency for this indicator run  programmes to enhance awareness, disaster risk information and risk assessment?",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 50,
+    "fields": {
+        "label_id": "",
+        "name": "r11",
+        "component": 5,
+        "order": 11,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Infrastructure",
+        "display_text": "What proportion of state and private critical infrastructure are located in high hazard/disaster risk areas?",
+        "default_option": 0,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 51,
+    "fields": {
+        "label_id": "",
+        "name": "r12",
+        "component": 5,
+        "order": 12,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Infrastructure",
+        "display_text": "What proportion of state and private critical  infrastructure have Hazard, Risk and Vulnerability Analysis (or other risk  assessments) completed?",
+        "default_option": 0,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 52,
+    "fields": {
+        "label_id": null,
+        "name": "r13",
+        "component": 5,
+        "order": 13,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Infrastructure",
+        "display_text": "E-4) Have lead agencies for this indicator adopted and implemented relevant critical infrastructure protection plans?",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 53,
+    "fields": {
+        "label_id": "",
+        "name": "r14",
+        "component": 5,
+        "order": 14,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Infrastructure",
+        "display_text": "What is the predicted economic loss, based on risk assessments completed, due to damage or destruction of critical infrastructure from disaster impact?",
+        "default_option": 0,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 54,
+    "fields": {
+        "label_id": null,
+        "name": "r15",
+        "component": 5,
+        "order": 15,
+        "average": true,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Infrastructure",
+        "display_text": "Has funding been allocated towards post-disaster infrastructure reconstruction?",
+        "default_option": 2,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 55,
+    "fields": {
+        "label_id": null,
+        "name": "g1",
+        "component": 6,
+        "order": 1,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "National Policy",
+        "display_text": "The presence and nature of gender-specific objectives and commitments (or gender strategy)  in national policies for this indicator",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 56,
+    "fields": {
+        "label_id": null,
+        "name": "g2",
+        "component": 6,
+        "order": 2,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "National Policy",
+        "display_text": null,
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 57,
+    "fields": {
+        "label_id": null,
+        "name": "g3",
+        "component": 6,
+        "order": 3,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "National Policy",
+        "display_text": "The existence of gender policies within agencies involved in the development of policy for this indicator",
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 58,
+    "fields": {
+        "label_id": null,
+        "name": "g4",
+        "component": 6,
+        "order": 5,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Governance",
+        "display_text": null,
+        "default_option": 4,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 59,
+    "fields": {
+        "label_id": null,
+        "name": "g5",
+        "component": 6,
+        "order": 6,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Governance",
+        "display_text": null,
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 60,
+    "fields": {
+        "label_id": null,
+        "name": "g6",
+        "component": 6,
+        "order": 7,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Governance",
+        "display_text": "Number of male and female paid staff in lead agency for this indicator",
+        "default_option": 0,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 61,
+    "fields": {
+        "label_id": null,
+        "name": "g7",
+        "component": 6,
+        "order": 8,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Governance",
+        "display_text": "What was the level of male and female participation in at least three national-level meetings of Government and public bodies for this indicator this year?",
+        "default_option": 0,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 62,
+    "fields": {
+        "label_id": null,
+        "name": "g8",
+        "component": 6,
+        "order": 9,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Governance",
+        "display_text": null,
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 63,
+    "fields": {
+        "label_id": null,
+        "name": "g9",
+        "component": 6,
+        "order": 10,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Organizations",
+        "display_text": null,
+        "default_option": 0,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 64,
+    "fields": {
+        "label_id": null,
+        "name": "g10",
+        "component": 6,
+        "order": 11,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Organizations",
+        "display_text": null,
+        "default_option": 0,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 65,
+    "fields": {
+        "label_id": null,
+        "name": "g11",
+        "component": 6,
+        "order": 12,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Organizations",
+        "display_text": null,
+        "default_option": 2,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 67,
+    "fields": {
+        "label_id": null,
+        "name": "t1",
+        "component": 7,
+        "order": 1,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Formulation of Policies",
+        "display_text": null,
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 68,
+    "fields": {
+        "label_id": null,
+        "name": "t2",
+        "component": 7,
+        "order": 2,
+        "average": false,
+        "positive_response_percent": true,
+        "aggregate_title": null,
+        "category_group": "Formulation of Policies",
+        "display_text": null,
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 69,
+    "fields": {
+        "label_id": null,
+        "name": "t3",
+        "component": 7,
+        "order": 3,
+        "average": false,
+        "positive_response_percent": true,
+        "aggregate_title": null,
+        "category_group": "Formulation of Policies",
+        "display_text": null,
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 70,
+    "fields": {
+        "label_id": null,
+        "name": "t4",
+        "component": 7,
+        "order": 5,
+        "average": false,
+        "positive_response_percent": true,
+        "aggregate_title": null,
+        "category_group": "Formulation of Policies",
+        "display_text": null,
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 71,
+    "fields": {
+        "label_id": null,
+        "name": "t5",
+        "component": 7,
+        "order": 6,
+        "average": false,
+        "positive_response_percent": true,
+        "aggregate_title": null,
+        "category_group": "Public Sector Integrity",
+        "display_text": null,
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 72,
+    "fields": {
+        "label_id": null,
+        "name": "t6",
+        "component": 7,
+        "order": 7,
+        "average": false,
+        "positive_response_percent": true,
+        "aggregate_title": null,
+        "category_group": "Whistle-blower Protection",
+        "display_text": null,
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 73,
+    "fields": {
+        "label_id": null,
+        "name": "Status",
+        "component": 8,
+        "order": 2,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": null,
+        "display_text": "Status",
+        "default_option": 0,
+        "default_value": "0"
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 74,
+    "fields": {
+        "label_id": null,
+        "name": "Supporting Information",
+        "component": 8,
+        "order": 1,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": null,
+        "display_text": "Supporting Information",
+        "default_option": 0,
+        "default_value": "0"
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 75,
+    "fields": {
+        "label_id": null,
+        "name": "c5 Pool Questions",
+        "component": 1,
+        "order": 5,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": null,
+        "display_text": "Pool Questions",
+        "default_option": 0,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 76,
+    "fields": {
+        "label_id": "p15",
+        "name": "p15 Pool Questions",
+        "component": 2,
+        "order": 15,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": null,
+        "display_text": null,
+        "default_option": 0,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 77,
+    "fields": {
+        "label_id": null,
+        "name": "f21 Pool Questions",
+        "component": 4,
+        "order": 21,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": null,
+        "display_text": null,
+        "default_option": 0,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 78,
+    "fields": {
+        "label_id": "t7 Pool Category",
+        "name": "t7 Pool Category",
+        "component": 7,
+        "order": 8,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": null,
+        "display_text": "t7 Pool Category",
+        "default_option": 0,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 79,
+    "fields": {
+        "label_id": null,
+        "name": "g12 Pool Questions",
+        "component": 6,
+        "order": 13,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": null,
+        "display_text": null,
+        "default_option": 0,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 80,
+    "fields": {
+        "label_id": "r16 Pool Category",
+        "name": "r16 Pool Category",
+        "component": 5,
+        "order": 17,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": null,
+        "display_text": "r16 Pool Category",
+        "default_option": 0,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 81,
+    "fields": {
+        "label_id": null,
+        "name": "t7",
+        "component": 7,
+        "order": 4,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Formulation of Policies",
+        "display_text": null,
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 82,
+    "fields": {
+        "label_id": null,
+        "name": "g4_new",
+        "component": 6,
+        "order": 4,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Governance",
+        "display_text": null,
+        "default_option": 3,
+        "default_value": null
+    }
+},
+{
+    "model": "pss_app.questioncategorytype",
+    "pk": 84,
+    "fields": {
+        "label_id": null,
+        "name": "r15_new",
+        "component": 5,
+        "order": 16,
+        "average": false,
+        "positive_response_percent": false,
+        "aggregate_title": null,
+        "category_group": "Infrastructure",
+        "display_text": null,
+        "default_option": 0,
+        "default_value": null
+    }
+}
+]

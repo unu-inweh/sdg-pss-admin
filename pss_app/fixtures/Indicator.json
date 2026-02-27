@@ -1,0 +1,191 @@
+[
+{
+    "model": "pss_app.indicator",
+    "pk": 1,
+    "fields": {
+        "label_id": "6.1.1",
+        "name": "Proportion of population using safely managed drinking water services",
+        "name_fr": "\u200b Pourcentage de la population utilisant des services d\u2019alimentation en eau potable g\u00e9r\u00e9s en toute s\u00e9curit\u00e9",
+        "name_es": "Proporci\u00f3n de la poblaci\u00f3n que dispone de servicios de suministro de agua potable gestionados de manera segura",
+        "name_pt": "Propor\u00e7\u00e3o da popula\u00e7\u00e3o que utiliza servi\u00e7os de \u00e1gua pot\u00e1vel geridos de forma segura",
+        "name_ko": "\uc548\uc804\ud558\uac8c \uad00\ub9ac\ub418\ub294 \uc2dd\uc218\ub97c \uc774\uc6a9\ud558\ub294 \uc778\uad6c \ube44\uc728",
+        "name_ar": "\u0627\u0644\u0645\u0624\u0634\u06316.1.1 : \u0646\u0633\u0628\u0629 \u0627\u0644\u0633\u0643\u0627\u0646 \u0627\u0644\u0630\u064a\u0646 \u064a\u0633\u062a\u0641\u064a\u062f\u0648\u0646 \u0645\u0646 \u062e\u062f\u0645\u0627\u062a \u0645\u064a\u0627\u0647 \u0627\u0644\u0634\u0631\u0628 \u0627\u0644\u062a\u064a \u062a\u062f\u0627\u0631 \u0628\u0637\u0631\u064a\u0642\u0629 \u0645\u0623\u0645\u0648\u0646\u0629",
+        "target": 1,
+        "order": 1,
+        "description": null,
+        "description_fr": null,
+        "description_es": null,
+        "description_pt": null,
+        "description_ko": null,
+        "description_ar": null
+    }
+},
+{
+    "model": "pss_app.indicator",
+    "pk": 2,
+    "fields": {
+        "label_id": "6.2.1",
+        "name": "Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water",
+        "name_fr": "\u200b Pourcentage de la population utilisant des services d\u2019assainissement g\u00e9r\u00e9s en toute s\u00e9curit\u00e9, notamment des \u00e9quipements pour se laver les mains avec du savon et de l\u2019eau",
+        "name_es": "Proporci\u00f3n de la poblaci\u00f3n que utiliza servicios de saneamiento gestionados de manera segura, incluida una instalaci\u00f3n para lavarse las manos con agua y jab\u00f3n",
+        "name_pt": "Propor\u00e7\u00e3o da popula\u00e7\u00e3o que utiliza servi\u00e7os de esgotamento sanit\u00e1rio geridos de forma segura, incluindo instala\u00e7\u00f5es para lavar as m\u00e3os com \u00e1gua e sab\u00e3o",
+        "name_ko": "\ube44\ub204\uc640 \ubb3c\ub85c \uc190\uc744 \uc53b\ub294 \uc2dc\uc124\uc744 \ud3ec\ud568\ud558\uc5ec \uc548\uc804\ud558\uac8c \uad00\ub9ac\ub418\ub294 \uc704\uc0dd\uc2dc\uc124\uc744 \uc774\uc6a9\ud558\ub294 \uc778\uad6c \ube44\uc728",
+        "name_ar": "\u0627\u0644\u0645\u0624\u0634\u06316.2.1 : \u0646\u0633\u0628\u0629 \u0627\u0644\u0633\u0643\u0627\u0646 \u0627\u0644\u0630\u064a\u0646 \u064a\u0633\u062a\u0641\u064a\u062f\u0648\u0646 \u0645\u0646 \u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0633\u0644\u064a\u0645\u0629 \u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0635\u0631\u0641 \u0627\u0644\u0635\u062d\u064a\u060c \u0628\u0645\u0627 \u0641\u064a\u0647\u0627 \u0645\u0631\u0627\u0641\u0642 \u063a\u0633\u0644 \u0627\u0644\u064a\u062f\u064a\u0646 \u0628\u0627\u0644\u0635\u0627\u0628\u0648\u0646 \u0648\u0627\u0644\u0645\u064a\u0627\u0647",
+        "target": 2,
+        "order": 1,
+        "description": null,
+        "description_fr": null,
+        "description_es": null,
+        "description_pt": null,
+        "description_ko": null,
+        "description_ar": null
+    }
+},
+{
+    "model": "pss_app.indicator",
+    "pk": 3,
+    "fields": {
+        "label_id": "6.3.1",
+        "name": "Proportion of wastewater safely treated",
+        "name_fr": "Proportion d\u2019eaux us\u00e9es trait\u00e9es sans danger",
+        "name_es": "Porcentaje de aguas residuales tratadas de manera segura",
+        "name_pt": "Propor\u00e7\u00e3o de \u00e1guas residuais tratadas de forma segura",
+        "name_ko": "\uc548\uc804\ud558\uac8c \ucc98\ub9ac\ub418\ub294 \ud558\u00b7\ud3d0\uc218\uc758 \ube44\uc728",
+        "name_ar": "\u0627\u0644\u0645\u0624\u0634\u06316.3.1 :  \u0646\u0633\u0628\u0629 \u0645\u064a\u0627\u0647 \u0627\u0644\u0635\u0631\u0641 \u0627\u0644\u0635\u062d\u064a \u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629 \u0628\u0637\u0631\u064a\u0642\u0629 \u0622\u0645\u0646\u0629",
+        "target": 3,
+        "order": 1,
+        "description": null,
+        "description_fr": null,
+        "description_es": null,
+        "description_pt": null,
+        "description_ko": null,
+        "description_ar": null
+    }
+},
+{
+    "model": "pss_app.indicator",
+    "pk": 4,
+    "fields": {
+        "label_id": "6.3.2",
+        "name": "Proportion of bodies of water with good ambient water quality",
+        "name_fr": "Proportion des plans d\u2019eau dont la qualit\u00e9 de l\u2019eau ambiante est bonne",
+        "name_es": "Porcentaje de masas de agua de buena calidad",
+        "name_pt": "Propor\u00e7\u00e3o de corpos h\u00eddricos com boa qualidade da \u00e1gua",
+        "name_ko": "\u0627\u0644\u0645\u0624\u0634\u0631 6.3.2 : \u0627\u0644\u0646\u0633\u0628\u0629 \u0627\u0644\u0645\u0626\u0648\u064a\u0629 \u0644\u0644\u0643\u062a\u0644 \u0627\u0644\u0645\u0627\u0626\u064a\u0629 \u0627\u0644\u0622\u062a\u064a\u0629 \u0645\u0646 \u0645\u064a\u0627\u0647 \u0645\u062d\u064a\u0637\u0629 \u0630\u0627\u062a \u0646\u0648\u0639\u064a\u0629 \u062c\u064a\u062f\u0629",
+        "name_ar": "\u0627\u0644\u0645\u0624\u0634\u0631 6.3.2 : \u0627\u0644\u0646\u0633\u0628\u0629 \u0627\u0644\u0645\u0626\u0648\u064a\u0629 \u0644\u0644\u0643\u062a\u0644 \u0627\u0644\u0645\u0627\u0626\u064a\u0629 \u0627\u0644\u0622\u062a\u064a\u0629 \u0645\u0646 \u0645\u064a\u0627\u0647 \u0645\u062d\u064a\u0637\u0629 \u0630\u0627\u062a \u0646\u0648\u0639\u064a\u0629 \u062c\u064a\u062f\u0629",
+        "target": 3,
+        "order": 2,
+        "description": null,
+        "description_fr": null,
+        "description_es": null,
+        "description_pt": null,
+        "description_ko": null,
+        "description_ar": null
+    }
+},
+{
+    "model": "pss_app.indicator",
+    "pk": 5,
+    "fields": {
+        "label_id": "6.4.1",
+        "name": "Change in water-use efficiency over time",
+        "name_fr": "Variation de l\u2019efficacit\u00e9 de l\u2019utilisation des ressources en eau",
+        "name_es": "Cambio en la eficiencia del uso del agua con el tiempo",
+        "name_pt": "Altera\u00e7\u00f5es na efici\u00eancia do uso da \u00e1gua",
+        "name_ko": "\uc2dc\uac04 \uacbd\uacfc\uc5d0 \ub530\ub978 \ubb3c \uc0ac\uc6a9 \ud6a8\uc728\uc131\uc758 \ubcc0\ud654",
+        "name_ar": "\u0627\u0644\u0645\u0624\u0634\u0631 6.4.1 : \u0627\u0644\u062a\u063a\u064a\u064a\u0631 \u0641\u064a \u0643\u0641\u0627\u0621\u0629 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0645\u064a\u0627\u0647 \u0628\u0645\u0631\u0648\u0631 \u0627\u0644\u0648\u0642\u062a",
+        "target": 4,
+        "order": 1,
+        "description": null,
+        "description_fr": null,
+        "description_es": null,
+        "description_pt": null,
+        "description_ko": null,
+        "description_ar": null
+    }
+},
+{
+    "model": "pss_app.indicator",
+    "pk": 6,
+    "fields": {
+        "label_id": "6.4.2",
+        "name": "Level of water stress - freshwater withdrawal as a proportion of available freshwater resources",
+        "name_fr": "Niveau de stress hydrique : pr\u00e9l\u00e8vements d\u2019eau douce en proportion des ressources en eau douce disponibles",
+        "name_es": "Nivel de estr\u00e9s por escasez de agua: extracci\u00f3n de agua dulce como proporci\u00f3n de los recursos de agua dulce disponibles",
+        "name_pt": "N\u00edvel de Stress H\u00eddrico: Propor\u00e7\u00e3o entre a retirada de \u00e1gua doce e o total dos recursos de \u00e1gua doce dispon\u00edveis do pa\u00eds",
+        "name_ko": "\ubb3c \uc2a4\ud2b8\ub808\uc2a4\uc758 \uc218\uc900: \uc774\uc6a9 \uac00\ub2a5\ud55c \ub2f4\uc218 \uc790\uc6d0 \uc911 \ucde8\uc218\uc728",
+        "name_ar": "\u0627\u0644\u0645\u0624\u0634\u0631 6.4.2 : \u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u0625\u062c\u0647\u0627\u062f \u0627\u0644\u0645\u0627\u0626\u064a: \u0633\u062d\u0628 \u0627\u0644\u0645\u064a\u0627\u0647 \u0627\u0644\u0639\u0630\u0628\u0629 \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0645\u064a\u0627\u0647 \u0627\u0644\u0639\u0630\u0628\u0629 \u0627\u0644\u0645\u062a\u0627\u062d\u0629",
+        "target": 4,
+        "order": 2,
+        "description": null,
+        "description_fr": null,
+        "description_es": null,
+        "description_pt": null,
+        "description_ko": null,
+        "description_ar": null
+    }
+},
+{
+    "model": "pss_app.indicator",
+    "pk": 7,
+    "fields": {
+        "label_id": "6.5.1",
+        "name": "Degree of integrated water resources management implementation (0-100)",
+        "name_fr": "\u200b Degr\u00e9 de mise en \u0153uvre de la gestion int\u00e9gr\u00e9e des ressources en eau (0-100)",
+        "name_es": "Grado de aplicaci\u00f3n de la ordenaci\u00f3n integrada de los recursos h\u00eddricos (0-100)",
+        "name_pt": "Grau de implementa\u00e7\u00e3o da gest\u00e3o integrada de recursos h\u00eddricos",
+        "name_ko": "\ud1b5\ud569 \uc218\uc790\uc6d0\uad00\ub9ac(IWRM)\uc774\ud589 \uc815\ub3c4(0-100)",
+        "name_ar": "\u0627\u0644\u0645\u0624\u0634\u0631 6.5.1 : \u062f\u0631\u062c\u0629 \u062a\u0646\u0641\u064a\u0630 \u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u062a\u0643\u0627\u0645\u0644\u0629 \u0644\u0644\u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0645\u0627\u0626\u064a\u0629 (\u0635\u0641\u0631 \u2013 100)",
+        "target": 5,
+        "order": 1,
+        "description": null,
+        "description_fr": null,
+        "description_es": null,
+        "description_pt": null,
+        "description_ko": null,
+        "description_ar": null
+    }
+},
+{
+    "model": "pss_app.indicator",
+    "pk": 8,
+    "fields": {
+        "label_id": "6.5.2",
+        "name": "Proportion of transboundary basin area with an operational arrangement for water cooperation",
+        "name_fr": "Proportion de bassins hydriques transfronti\u00e8res o\u00f9 est en place un dispositif op\u00e9rationnel de coop\u00e9ration en mati\u00e8re d\u2019eau",
+        "name_es": "Proporci\u00f3n de la superficie de cuencas transfronterizas con un arreglo operacional para la cooperaci\u00f3n en la esfera del agua",
+        "name_pt": "Propor\u00e7\u00e3o de bacias hidrogr\u00e1ficas e aqu\u00edferos transfronteiri\u00e7os abrangidos por um acordo operacional de coopera\u00e7\u00e3o em mat\u00e9ria de recursos h\u00eddricos",
+        "name_ko": "\ubb3c \ud611\ub825\uc744 \uc704\ud574 \uc6b4\uc6a9 \ud611\uc815\uc744 \ub9fa\uc740 \ucd08\uad6d\uacbd \uc720\uc5ed\uba74\uc801\uc758 \ube44\uc728",
+        "name_ar": "\u0627\u0644\u0645\u0624\u0634\u0631 6.5.2 : \u0646\u0633\u0628\u0629 \u0645\u0646\u0627\u0637\u0642 \u0623\u062d\u0648\u0627\u0636 \u0627\u0644\u0645\u064a\u0627\u0647 \u0627\u0644\u0639\u0627\u0628\u0631\u0629 \u0644\u0644\u062d\u062f\u0648\u062f \u0648 \u0627\u0644\u062a\u064a \u0644\u0647\u0627 \u062a\u0631\u062a\u064a\u0628\u0627\u062a \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u062a\u0634\u063a\u064a\u0644\u064a \u0641\u064a \u0645\u062c\u0627\u0644 \u0627\u0644\u0645\u064a\u0627\u0647",
+        "target": 5,
+        "order": 2,
+        "description": null,
+        "description_fr": null,
+        "description_es": null,
+        "description_pt": null,
+        "description_ko": null,
+        "description_ar": null
+    }
+},
+{
+    "model": "pss_app.indicator",
+    "pk": 9,
+    "fields": {
+        "label_id": "6.6.1",
+        "name": "Change in the extent of water-related ecosystems over time",
+        "name_fr": "Variation de l\u2019\u00e9tendue des \u00e9cosyst\u00e8mes li\u00e9s \u00e0 l\u2019eau dans le temps",
+        "name_es": "Cambio en la extensi\u00f3n de los ecosistemas relacionados con el agua a lo largo del tiempo",
+        "name_pt": "Altera\u00e7\u00e3o dos ecossistemas aqu\u00e1ticos ao longo do tempo",
+        "name_ko": "\uc2dc\uac04 \uacbd\uacfc\uc5d0 \ub530\ub978 \uc218\uc0dd\ud0dc\uacc4 \ubc94\uc704\uc758 \ubcc0\ud654",
+        "name_ar": "\u0627\u0644\u0645\u0624\u0634\u0631 6.6.1 : \u0646\u0633\u0628\u0629 \u0627\u0644\u062a\u063a\u064a\u0631 \u0641\u064a \u0646\u0637\u0627\u0642 \u0627\u0644\u0646\u0638\u0645 \u0627\u0644\u0625\u064a\u0643\u0648\u0644\u0648\u062c\u064a\u0629 \u0627\u0644\u0645\u062a\u0635\u0644\u0629 \u0628\u0627\u0644\u0645\u064a\u0627\u0647 \u062e\u0644\u0627\u0644 \u0641\u062a\u0631\u0629 \u0645\u0646 \u0627\u0644\u0632\u0645\u0646",
+        "target": 6,
+        "order": 1,
+        "description": null,
+        "description_fr": null,
+        "description_es": null,
+        "description_pt": null,
+        "description_ko": null,
+        "description_ar": null
+    }
+}
+]

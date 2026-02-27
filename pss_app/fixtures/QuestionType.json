@@ -1,0 +1,4718 @@
+[
+{
+    "model": "pss_app.questiontype",
+    "pk": 1,
+    "fields": {
+        "label_id": null,
+        "name": "Human skills",
+        "question_category_type": 1,
+        "order": 1,
+        "display_text": "Human skills",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 2,
+    "fields": {
+        "label_id": null,
+        "name": "Knowledge and data",
+        "question_category_type": 1,
+        "order": 2,
+        "display_text": "Knowledge and data",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 3,
+    "fields": {
+        "label_id": null,
+        "name": "Policy",
+        "question_category_type": 1,
+        "order": 3,
+        "display_text": "Policy",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 4,
+    "fields": {
+        "label_id": null,
+        "name": "Legal",
+        "question_category_type": 1,
+        "order": 4,
+        "display_text": "Legal",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 5,
+    "fields": {
+        "label_id": null,
+        "name": "Science",
+        "question_category_type": 1,
+        "order": 5,
+        "display_text": "Science",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 6,
+    "fields": {
+        "label_id": null,
+        "name": "Partnerships",
+        "question_category_type": 1,
+        "order": 6,
+        "display_text": "Partnerships",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 7,
+    "fields": {
+        "label_id": null,
+        "name": "Equity",
+        "question_category_type": 1,
+        "order": 7,
+        "display_text": "Equity",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 8,
+    "fields": {
+        "label_id": null,
+        "name": "Other",
+        "question_category_type": 1,
+        "order": 8,
+        "display_text": "Other",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 9,
+    "fields": {
+        "label_id": null,
+        "name": "Details",
+        "question_category_type": 1,
+        "order": 9,
+        "display_text": "Details",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 11,
+    "fields": {
+        "label_id": "C2a",
+        "name": "Value",
+        "question_category_type": 4,
+        "order": 1,
+        "display_text": "Overall Capacity?",
+        "show_in_summary": true,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 12,
+    "fields": {
+        "label_id": null,
+        "name": "Private sector collaboration",
+        "question_category_type": 2,
+        "order": 1,
+        "display_text": "Private sector collaboration",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 13,
+    "fields": {
+        "label_id": null,
+        "name": "Financial",
+        "question_category_type": 2,
+        "order": 2,
+        "display_text": "Financial",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 14,
+    "fields": {
+        "label_id": null,
+        "name": "Performance indicators",
+        "question_category_type": 2,
+        "order": 3,
+        "display_text": "Performance indicators",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 15,
+    "fields": {
+        "label_id": null,
+        "name": "Public participation",
+        "question_category_type": 2,
+        "order": 4,
+        "display_text": "Public participation",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 16,
+    "fields": {
+        "label_id": null,
+        "name": "Civil society organizations",
+        "question_category_type": 2,
+        "order": 5,
+        "display_text": "Civil society organizations",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 17,
+    "fields": {
+        "label_id": null,
+        "name": "Data",
+        "question_category_type": 2,
+        "order": 6,
+        "display_text": "Data",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 18,
+    "fields": {
+        "label_id": null,
+        "name": "Traditional arrangements",
+        "question_category_type": 2,
+        "order": 7,
+        "display_text": "Traditional arrangements",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 19,
+    "fields": {
+        "label_id": null,
+        "name": "Workshops",
+        "question_category_type": 2,
+        "order": 8,
+        "display_text": "Workshops",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 20,
+    "fields": {
+        "label_id": null,
+        "name": "Preformance monitoring",
+        "question_category_type": 2,
+        "order": 9,
+        "display_text": "Preformance monitoring",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 21,
+    "fields": {
+        "label_id": null,
+        "name": "None",
+        "question_category_type": 2,
+        "order": 10,
+        "display_text": "None",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 22,
+    "fields": {
+        "label_id": null,
+        "name": "Other",
+        "question_category_type": 2,
+        "order": 11,
+        "display_text": "Other",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 23,
+    "fields": {
+        "label_id": null,
+        "name": "Details",
+        "question_category_type": 2,
+        "order": 12,
+        "display_text": "Details",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 25,
+    "fields": {
+        "label_id": null,
+        "name": "Human Policy",
+        "question_category_type": 3,
+        "order": 1,
+        "display_text": "Human Policy",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 26,
+    "fields": {
+        "label_id": null,
+        "name": "Human enforced",
+        "question_category_type": 3,
+        "order": 2,
+        "display_text": "Human enforced",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 27,
+    "fields": {
+        "label_id": null,
+        "name": "Knowledge policy",
+        "question_category_type": 3,
+        "order": 3,
+        "display_text": "Knowledge policy",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 28,
+    "fields": {
+        "label_id": null,
+        "name": "Knowledge enforced",
+        "question_category_type": 3,
+        "order": 4,
+        "display_text": "Knowledge enforced",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 29,
+    "fields": {
+        "label_id": null,
+        "name": "Science Policy",
+        "question_category_type": 3,
+        "order": 5,
+        "display_text": "Science Policy",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 30,
+    "fields": {
+        "label_id": null,
+        "name": "Science Enforced",
+        "question_category_type": 3,
+        "order": 6,
+        "display_text": "Science Enforced",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 31,
+    "fields": {
+        "label_id": null,
+        "name": "Equity policy",
+        "question_category_type": 3,
+        "order": 7,
+        "display_text": "Equity policy",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 32,
+    "fields": {
+        "label_id": null,
+        "name": "Equity enforced",
+        "question_category_type": 3,
+        "order": 8,
+        "display_text": "Equity enforced",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 33,
+    "fields": {
+        "label_id": null,
+        "name": "Other",
+        "question_category_type": 3,
+        "order": 9,
+        "display_text": "Other",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 34,
+    "fields": {
+        "label_id": null,
+        "name": "Details",
+        "question_category_type": 3,
+        "order": 10,
+        "display_text": "Details",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 99,
+    "fields": {
+        "label_id": null,
+        "name": "1.a",
+        "question_category_type": 5,
+        "order": 1,
+        "display_text": "a",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 100,
+    "fields": {
+        "label_id": "",
+        "name": "1.a2",
+        "question_category_type": 5,
+        "order": 2,
+        "display_text": "a2",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 101,
+    "fields": {
+        "label_id": "",
+        "name": "1.a3",
+        "question_category_type": 5,
+        "order": 3,
+        "display_text": "a3",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 102,
+    "fields": {
+        "label_id": null,
+        "name": "1.b",
+        "question_category_type": 5,
+        "order": 4,
+        "display_text": "b",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 103,
+    "fields": {
+        "label_id": null,
+        "name": "1.b2",
+        "question_category_type": 5,
+        "order": 5,
+        "display_text": "b2",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 104,
+    "fields": {
+        "label_id": "",
+        "name": "1.b3",
+        "question_category_type": 5,
+        "order": 6,
+        "display_text": "b3",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 105,
+    "fields": {
+        "label_id": null,
+        "name": "1.c",
+        "question_category_type": 5,
+        "order": 7,
+        "display_text": "c",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 106,
+    "fields": {
+        "label_id": "",
+        "name": "1.c2",
+        "question_category_type": 5,
+        "order": 8,
+        "display_text": "c2",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 107,
+    "fields": {
+        "label_id": "",
+        "name": "1.c3",
+        "question_category_type": 5,
+        "order": 9,
+        "display_text": "c3",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 108,
+    "fields": {
+        "label_id": null,
+        "name": "1.d",
+        "question_category_type": 5,
+        "order": 10,
+        "display_text": "d",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 109,
+    "fields": {
+        "label_id": "",
+        "name": "1.d2",
+        "question_category_type": 5,
+        "order": 11,
+        "display_text": "d2",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 110,
+    "fields": {
+        "label_id": "",
+        "name": "1.d3",
+        "question_category_type": 5,
+        "order": 12,
+        "display_text": "d3",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 111,
+    "fields": {
+        "label_id": null,
+        "name": "2 Default",
+        "question_category_type": 6,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": true,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 112,
+    "fields": {
+        "label_id": "",
+        "name": "3a",
+        "question_category_type": 7,
+        "order": 1,
+        "display_text": "a",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 113,
+    "fields": {
+        "label_id": "",
+        "name": "3b",
+        "question_category_type": 7,
+        "order": 2,
+        "display_text": "b",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 114,
+    "fields": {
+        "label_id": "",
+        "name": "3c",
+        "question_category_type": 7,
+        "order": 3,
+        "display_text": "c",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 115,
+    "fields": {
+        "label_id": "",
+        "name": "3d",
+        "question_category_type": 7,
+        "order": 4,
+        "display_text": "d",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 116,
+    "fields": {
+        "label_id": "",
+        "name": "3e",
+        "question_category_type": 7,
+        "order": 5,
+        "display_text": "e",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 117,
+    "fields": {
+        "label_id": "",
+        "name": "3f",
+        "question_category_type": 7,
+        "order": 6,
+        "display_text": "f",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 118,
+    "fields": {
+        "label_id": "",
+        "name": "3g",
+        "question_category_type": 7,
+        "order": 7,
+        "display_text": "g",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 119,
+    "fields": {
+        "label_id": "",
+        "name": "3h",
+        "question_category_type": 7,
+        "order": 8,
+        "display_text": "h",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 120,
+    "fields": {
+        "label_id": "",
+        "name": "4a",
+        "question_category_type": 8,
+        "order": 1,
+        "display_text": "a",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 121,
+    "fields": {
+        "label_id": null,
+        "name": "Other",
+        "question_category_type": 8,
+        "order": 2,
+        "display_text": "Other",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 122,
+    "fields": {
+        "label_id": "",
+        "name": "5a",
+        "question_category_type": 9,
+        "order": 1,
+        "display_text": "a",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 123,
+    "fields": {
+        "label_id": "",
+        "name": "5b",
+        "question_category_type": 9,
+        "order": 2,
+        "display_text": "b",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 124,
+    "fields": {
+        "label_id": "",
+        "name": "5c",
+        "question_category_type": 9,
+        "order": 3,
+        "display_text": "c",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 125,
+    "fields": {
+        "label_id": "",
+        "name": "5d",
+        "question_category_type": 9,
+        "order": 4,
+        "display_text": "d",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 126,
+    "fields": {
+        "label_id": "",
+        "name": "5e",
+        "question_category_type": 9,
+        "order": 5,
+        "display_text": "e",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 127,
+    "fields": {
+        "label_id": null,
+        "name": "5o",
+        "question_category_type": 9,
+        "order": 6,
+        "display_text": "Other",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 128,
+    "fields": {
+        "label_id": "",
+        "name": "6a",
+        "question_category_type": 10,
+        "order": 1,
+        "display_text": "a",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 129,
+    "fields": {
+        "label_id": "",
+        "name": "6b",
+        "question_category_type": 10,
+        "order": 2,
+        "display_text": "b",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 130,
+    "fields": {
+        "label_id": "",
+        "name": "6c",
+        "question_category_type": 10,
+        "order": 3,
+        "display_text": "c",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 131,
+    "fields": {
+        "label_id": "",
+        "name": "6d",
+        "question_category_type": 10,
+        "order": 4,
+        "display_text": "d",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 132,
+    "fields": {
+        "label_id": "",
+        "name": "6e",
+        "question_category_type": 10,
+        "order": 5,
+        "display_text": "e",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 133,
+    "fields": {
+        "label_id": "",
+        "name": "6f",
+        "question_category_type": 10,
+        "order": 6,
+        "display_text": "f",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 134,
+    "fields": {
+        "label_id": "",
+        "name": "6g",
+        "question_category_type": 10,
+        "order": 7,
+        "display_text": "g",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 135,
+    "fields": {
+        "label_id": "",
+        "name": "6h",
+        "question_category_type": 10,
+        "order": 8,
+        "display_text": "h",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 136,
+    "fields": {
+        "label_id": "",
+        "name": "6i",
+        "question_category_type": 10,
+        "order": 9,
+        "display_text": "i",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 137,
+    "fields": {
+        "label_id": null,
+        "name": "6j",
+        "question_category_type": 10,
+        "order": 10,
+        "display_text": "Other",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 138,
+    "fields": {
+        "label_id": "",
+        "name": "7a",
+        "question_category_type": 11,
+        "order": 1,
+        "display_text": "a",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 139,
+    "fields": {
+        "label_id": "",
+        "name": "7b",
+        "question_category_type": 11,
+        "order": 2,
+        "display_text": "b",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 140,
+    "fields": {
+        "label_id": "",
+        "name": "7c",
+        "question_category_type": 11,
+        "order": 3,
+        "display_text": "c",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 141,
+    "fields": {
+        "label_id": "",
+        "name": "7d",
+        "question_category_type": 11,
+        "order": 4,
+        "display_text": "d",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 142,
+    "fields": {
+        "label_id": "",
+        "name": "7e",
+        "question_category_type": 11,
+        "order": 5,
+        "display_text": "e",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 143,
+    "fields": {
+        "label_id": "",
+        "name": "7f",
+        "question_category_type": 11,
+        "order": 6,
+        "display_text": "f",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 144,
+    "fields": {
+        "label_id": "",
+        "name": "7g",
+        "question_category_type": 11,
+        "order": 7,
+        "display_text": "g",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 145,
+    "fields": {
+        "label_id": "",
+        "name": "7h",
+        "question_category_type": 11,
+        "order": 8,
+        "display_text": "h",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 146,
+    "fields": {
+        "label_id": "",
+        "name": "7i",
+        "question_category_type": 11,
+        "order": 9,
+        "display_text": "i",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 147,
+    "fields": {
+        "label_id": "",
+        "name": "7j",
+        "question_category_type": 11,
+        "order": 10,
+        "display_text": "j",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 148,
+    "fields": {
+        "label_id": "",
+        "name": "7k",
+        "question_category_type": 11,
+        "order": 11,
+        "display_text": "k",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 149,
+    "fields": {
+        "label_id": "",
+        "name": "7l",
+        "question_category_type": 11,
+        "order": 12,
+        "display_text": "l",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 150,
+    "fields": {
+        "label_id": null,
+        "name": "7m",
+        "question_category_type": 11,
+        "order": 13,
+        "display_text": "Other",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 151,
+    "fields": {
+        "label_id": null,
+        "name": "8a",
+        "question_category_type": 12,
+        "order": 1,
+        "display_text": "a",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 152,
+    "fields": {
+        "label_id": null,
+        "name": "8b",
+        "question_category_type": 12,
+        "order": 2,
+        "display_text": "b",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 153,
+    "fields": {
+        "label_id": null,
+        "name": "8c",
+        "question_category_type": 12,
+        "order": 3,
+        "display_text": "c",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 154,
+    "fields": {
+        "label_id": null,
+        "name": "8d",
+        "question_category_type": 12,
+        "order": 4,
+        "display_text": "d",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 155,
+    "fields": {
+        "label_id": null,
+        "name": "8e",
+        "question_category_type": 12,
+        "order": 5,
+        "display_text": "e",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 156,
+    "fields": {
+        "label_id": null,
+        "name": "8f",
+        "question_category_type": 12,
+        "order": 6,
+        "display_text": "f",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 157,
+    "fields": {
+        "label_id": null,
+        "name": "8g",
+        "question_category_type": 12,
+        "order": 7,
+        "display_text": "g",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 158,
+    "fields": {
+        "label_id": null,
+        "name": "8h",
+        "question_category_type": 12,
+        "order": 8,
+        "display_text": "h",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 159,
+    "fields": {
+        "label_id": null,
+        "name": "8i",
+        "question_category_type": 12,
+        "order": 9,
+        "display_text": "i",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 160,
+    "fields": {
+        "label_id": null,
+        "name": "8j",
+        "question_category_type": 12,
+        "order": 10,
+        "display_text": "j",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 161,
+    "fields": {
+        "label_id": null,
+        "name": "8k",
+        "question_category_type": 12,
+        "order": 11,
+        "display_text": "k",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 162,
+    "fields": {
+        "label_id": null,
+        "name": "8l",
+        "question_category_type": 12,
+        "order": 12,
+        "display_text": "l",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 163,
+    "fields": {
+        "label_id": null,
+        "name": "8m",
+        "question_category_type": 12,
+        "order": 13,
+        "display_text": "m",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 164,
+    "fields": {
+        "label_id": null,
+        "name": "8n",
+        "question_category_type": 12,
+        "order": 14,
+        "display_text": "n",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 165,
+    "fields": {
+        "label_id": null,
+        "name": "8o",
+        "question_category_type": 12,
+        "order": 15,
+        "display_text": "o",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 166,
+    "fields": {
+        "label_id": "",
+        "name": "8p",
+        "question_category_type": 12,
+        "order": 16,
+        "display_text": "Other",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 167,
+    "fields": {
+        "label_id": null,
+        "name": "9a",
+        "question_category_type": 13,
+        "order": 1,
+        "display_text": "a",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 168,
+    "fields": {
+        "label_id": null,
+        "name": "9b",
+        "question_category_type": 13,
+        "order": 2,
+        "display_text": "b",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 169,
+    "fields": {
+        "label_id": null,
+        "name": "9c",
+        "question_category_type": 13,
+        "order": 3,
+        "display_text": "c",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 170,
+    "fields": {
+        "label_id": null,
+        "name": "9d",
+        "question_category_type": 13,
+        "order": 4,
+        "display_text": "d",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 171,
+    "fields": {
+        "label_id": null,
+        "name": "9e",
+        "question_category_type": 13,
+        "order": 5,
+        "display_text": "e",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 172,
+    "fields": {
+        "label_id": null,
+        "name": "9f",
+        "question_category_type": 13,
+        "order": 6,
+        "display_text": "f",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 173,
+    "fields": {
+        "label_id": null,
+        "name": "9g",
+        "question_category_type": 13,
+        "order": 7,
+        "display_text": "g",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 174,
+    "fields": {
+        "label_id": null,
+        "name": "9h",
+        "question_category_type": 13,
+        "order": 8,
+        "display_text": "h",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 175,
+    "fields": {
+        "label_id": null,
+        "name": "9i",
+        "question_category_type": 13,
+        "order": 9,
+        "display_text": "i",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 176,
+    "fields": {
+        "label_id": null,
+        "name": "9j",
+        "question_category_type": 13,
+        "order": 10,
+        "display_text": "j",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 177,
+    "fields": {
+        "label_id": null,
+        "name": "9k",
+        "question_category_type": 13,
+        "order": 11,
+        "display_text": "k",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 178,
+    "fields": {
+        "label_id": null,
+        "name": "9l",
+        "question_category_type": 13,
+        "order": 12,
+        "display_text": "l",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 179,
+    "fields": {
+        "label_id": "",
+        "name": "9m",
+        "question_category_type": 13,
+        "order": 13,
+        "display_text": "Other",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 180,
+    "fields": {
+        "label_id": "",
+        "name": "10 Default",
+        "question_category_type": 14,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 181,
+    "fields": {
+        "label_id": "",
+        "name": "11a",
+        "question_category_type": 15,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 183,
+    "fields": {
+        "label_id": null,
+        "name": "Other",
+        "question_category_type": 15,
+        "order": 2,
+        "display_text": "Other",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 184,
+    "fields": {
+        "label_id": null,
+        "name": "12 Default",
+        "question_category_type": 16,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 185,
+    "fields": {
+        "label_id": null,
+        "name": "13 Default",
+        "question_category_type": 17,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 186,
+    "fields": {
+        "label_id": null,
+        "name": "14a",
+        "question_category_type": 18,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": true,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 187,
+    "fields": {
+        "label_id": "",
+        "name": "Other",
+        "question_category_type": 18,
+        "order": 2,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 188,
+    "fields": {
+        "label_id": "",
+        "name": "extra",
+        "question_category_type": 19,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 189,
+    "fields": {
+        "label_id": null,
+        "name": "f1",
+        "question_category_type": 20,
+        "order": 1,
+        "display_text": "Total expense estimate to reach indicator in 2030 ('000,000 USD)",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 190,
+    "fields": {
+        "label_id": null,
+        "name": "f2",
+        "question_category_type": 21,
+        "order": 1,
+        "display_text": "Total available funds in the current year ('000,000 USD)",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 191,
+    "fields": {
+        "label_id": null,
+        "name": "f3",
+        "question_category_type": 22,
+        "order": 1,
+        "display_text": "Funding needed in the current year ('000,000 USD)",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": true,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 192,
+    "fields": {
+        "label_id": null,
+        "name": "f4",
+        "question_category_type": 23,
+        "order": 1,
+        "display_text": "Is there a publicly available and easily accessible financing plan/budget for this indicator?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 193,
+    "fields": {
+        "label_id": null,
+        "name": "f5",
+        "question_category_type": 24,
+        "order": 1,
+        "display_text": "Are expenditure reports publicly available and easily accessible for this indicator?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 194,
+    "fields": {
+        "label_id": null,
+        "name": "f6",
+        "question_category_type": 25,
+        "order": 1,
+        "display_text": "Do expenditure reports allow actual spending on this indicator to be compared with committed funding?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 195,
+    "fields": {
+        "label_id": null,
+        "name": "f7",
+        "question_category_type": 26,
+        "order": 1,
+        "display_text": "Is the percent utilization of official donor capital commitments for this indicator known AND above 75%?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 196,
+    "fields": {
+        "label_id": null,
+        "name": "f8",
+        "question_category_type": 27,
+        "order": 1,
+        "display_text": "Is the percent utilization of domestic capital commitments for this indicator known AND above 75%?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 197,
+    "fields": {
+        "label_id": null,
+        "name": "f9",
+        "question_category_type": 28,
+        "order": 1,
+        "display_text": "Are there adequate guidance documents that ensure budgeting for this indicator is done adequately?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 198,
+    "fields": {
+        "label_id": null,
+        "name": "f10",
+        "question_category_type": 29,
+        "order": 1,
+        "display_text": "Does the lead Government Ministry/Institution have bankable projects to achieve this indicator already prepared?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 199,
+    "fields": {
+        "label_id": null,
+        "name": "f11",
+        "question_category_type": 30,
+        "order": 1,
+        "display_text": "Is there an ability to have multi-year budget allocation for this target and is there a long term commitment to funds (minimum of 3 years)?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 200,
+    "fields": {
+        "label_id": null,
+        "name": "f12",
+        "question_category_type": 31,
+        "order": 1,
+        "display_text": "Are there are formalised mechanisms for including civil society in the financial planning process  as related to this indicator?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 201,
+    "fields": {
+        "label_id": null,
+        "name": "f13a",
+        "question_category_type": 32,
+        "order": 1,
+        "display_text": "Aa",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 202,
+    "fields": {
+        "label_id": null,
+        "name": "f13b",
+        "question_category_type": 32,
+        "order": 2,
+        "display_text": "Ab",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 203,
+    "fields": {
+        "label_id": null,
+        "name": "f13c",
+        "question_category_type": 32,
+        "order": 3,
+        "display_text": "Ac",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 204,
+    "fields": {
+        "label_id": null,
+        "name": "f13d",
+        "question_category_type": 32,
+        "order": 4,
+        "display_text": "Ad",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 205,
+    "fields": {
+        "label_id": null,
+        "name": "f14",
+        "question_category_type": 33,
+        "order": 1,
+        "display_text": "Are public allocations related to this indicator as a percentage of GDP known?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 206,
+    "fields": {
+        "label_id": null,
+        "name": "f15",
+        "question_category_type": 34,
+        "order": 1,
+        "display_text": "Is the percentage of ODA (aid) that supports nationally defined policies, plans and activities for this indicator known?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 207,
+    "fields": {
+        "label_id": null,
+        "name": "f16",
+        "question_category_type": 35,
+        "order": 1,
+        "display_text": "Is there a functioning domestic bond market which is involved in finance for this indicator?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 208,
+    "fields": {
+        "label_id": null,
+        "name": "f17",
+        "question_category_type": 36,
+        "order": 1,
+        "display_text": "Are functional financial mechanisms and instruments being used?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 209,
+    "fields": {
+        "label_id": null,
+        "name": "f18",
+        "question_category_type": 37,
+        "order": 1,
+        "display_text": "Are there legal and institutional frameworks that allow the whole range of financial transactions to take place?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 210,
+    "fields": {
+        "label_id": null,
+        "name": "f19",
+        "question_category_type": 38,
+        "order": 1,
+        "display_text": "Do incentives for environmentally sustainable, efficient technologies exist in key financial plans for this indicator?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 211,
+    "fields": {
+        "label_id": null,
+        "name": "f20a",
+        "question_category_type": 39,
+        "order": 1,
+        "display_text": "Ia",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 212,
+    "fields": {
+        "label_id": null,
+        "name": "f20b",
+        "question_category_type": 39,
+        "order": 2,
+        "display_text": "Ib",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 213,
+    "fields": {
+        "label_id": null,
+        "name": "f20c",
+        "question_category_type": 39,
+        "order": 3,
+        "display_text": "Ic",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 214,
+    "fields": {
+        "label_id": null,
+        "name": "f20d",
+        "question_category_type": 39,
+        "order": 4,
+        "display_text": "Id",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 215,
+    "fields": {
+        "label_id": null,
+        "name": "f20e",
+        "question_category_type": 39,
+        "order": 5,
+        "display_text": "Ie",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 216,
+    "fields": {
+        "label_id": null,
+        "name": "f20f",
+        "question_category_type": 39,
+        "order": 6,
+        "display_text": "If",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 217,
+    "fields": {
+        "label_id": null,
+        "name": "f20g",
+        "question_category_type": 39,
+        "order": 7,
+        "display_text": "Ig",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 218,
+    "fields": {
+        "label_id": null,
+        "name": "f20h",
+        "question_category_type": 39,
+        "order": 8,
+        "display_text": "Ih",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 219,
+    "fields": {
+        "label_id": null,
+        "name": "f20i",
+        "question_category_type": 39,
+        "order": 9,
+        "display_text": "Ii",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 220,
+    "fields": {
+        "label_id": null,
+        "name": "f20j",
+        "question_category_type": 39,
+        "order": 10,
+        "display_text": "Ij",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 221,
+    "fields": {
+        "label_id": null,
+        "name": "f20k",
+        "question_category_type": 39,
+        "order": 11,
+        "display_text": "Io",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 222,
+    "fields": {
+        "label_id": "",
+        "name": "r1",
+        "question_category_type": 40,
+        "order": 1,
+        "display_text": "E-1) Have National DRR strategies been adopted and implemented in line with the Sendai Framework for DRR 2015-2030?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 223,
+    "fields": {
+        "label_id": "",
+        "name": "r2",
+        "question_category_type": 41,
+        "order": 1,
+        "display_text": "E-3) Has climate change adaption and/or DRR been integrated into national development planning relevant to this indicator?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 224,
+    "fields": {
+        "label_id": "",
+        "name": "r3",
+        "question_category_type": 42,
+        "order": 1,
+        "display_text": "E-9) Are there national financing mechanisms for DRR relevant for this indicator?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 225,
+    "fields": {
+        "label_id": "",
+        "name": "r4",
+        "question_category_type": 43,
+        "order": 1,
+        "display_text": "E-7)  Are lead agencies conducting (independent) periodic outcome reviews of the implementation of national and local DRR strategies relevant to this indicator?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 226,
+    "fields": {
+        "label_id": "",
+        "name": "r5",
+        "question_category_type": 44,
+        "order": 1,
+        "display_text": "E-8) Have sector specific DRR strategies been adopted and implemented  in line with the Sendai Framework for DRR?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 227,
+    "fields": {
+        "label_id": "",
+        "name": "r6",
+        "question_category_type": 45,
+        "order": 1,
+        "display_text": "E-5) Have cross-sectoral bodies/forums been formed that have  clear roles and responsibilities identified across state institutions, civil society, private sector and international actors , for the implementation and review of DRR measures for this indica",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 228,
+    "fields": {
+        "label_id": "",
+        "name": "r7",
+        "question_category_type": 46,
+        "order": 1,
+        "display_text": "E10. Do lead agencies have spatial and land use planning mechanisms for DRR?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 229,
+    "fields": {
+        "label_id": "",
+        "name": "r8",
+        "question_category_type": 47,
+        "order": 1,
+        "display_text": "G5 Are multi-hazard national risk assessments or information available, with results in an accessible, understandable and usable format  for stakeholders and the public?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 230,
+    "fields": {
+        "label_id": "",
+        "name": "r9",
+        "question_category_type": 48,
+        "order": 1,
+        "display_text": "G 10. Do lead agencies for this indicator have  open data policies and mechanisms to make hazard and risk data accessible and available to all users",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 231,
+    "fields": {
+        "label_id": "",
+        "name": "r10",
+        "question_category_type": 49,
+        "order": 1,
+        "display_text": "G14. Does the lead agency for this indicator run  programmes to enhance awareness, disaster risk information and risk assessment?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 232,
+    "fields": {
+        "label_id": null,
+        "name": "r11",
+        "question_category_type": 50,
+        "order": 1,
+        "display_text": "What proportion of state and private critical infrastructure are located in high hazard/disaster risk areas?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": true,
+        "non_zero": false,
+        "percentage": true,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 233,
+    "fields": {
+        "label_id": null,
+        "name": "r12",
+        "question_category_type": 51,
+        "order": 1,
+        "display_text": "What proportion of state and private critical  infrastructure have Hazard, Risk and Vulnerability Analysis (or other risk  assessments) completed?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": true,
+        "non_zero": false,
+        "percentage": true,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 234,
+    "fields": {
+        "label_id": "",
+        "name": "r13",
+        "question_category_type": 52,
+        "order": 1,
+        "display_text": "E-4) Have lead agencies for this indicator adopted and implemented relevant critical infrastructure protection plans?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 235,
+    "fields": {
+        "label_id": null,
+        "name": "r14",
+        "question_category_type": 53,
+        "order": 1,
+        "display_text": "What is the predicted economic loss, based on risk assessments completed, due to damage or destruction of critical infrastructure from disaster impact?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": true,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 236,
+    "fields": {
+        "label_id": "",
+        "name": "r15a",
+        "question_category_type": 54,
+        "order": 1,
+        "display_text": "Has funding been allocated towards post-disaster infrastructure reconstruction?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 237,
+    "fields": {
+        "label_id": null,
+        "name": "r15b",
+        "question_category_type": 54,
+        "order": 2,
+        "display_text": "What amount of funding is allocated towards post-disaster infrastructure reconstruction for this indicator?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": true,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 238,
+    "fields": {
+        "label_id": null,
+        "name": "g1a",
+        "question_category_type": 55,
+        "order": 1,
+        "display_text": "1a. Are specific gender objectives articulated within all key national  policies and strategies?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 239,
+    "fields": {
+        "label_id": null,
+        "name": "g1b",
+        "question_category_type": 55,
+        "order": 2,
+        "display_text": "1b. Has gender analysis been undertaken to inform national policy responses to gender issues for this indicator?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 240,
+    "fields": {
+        "label_id": null,
+        "name": "g1c",
+        "question_category_type": 55,
+        "order": 3,
+        "display_text": "1c. Has an institutional audit been done to identify gaps in lead ministry capacity and practice, in responding to gender issues?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 241,
+    "fields": {
+        "label_id": null,
+        "name": "g1d",
+        "question_category_type": 55,
+        "order": 4,
+        "display_text": "1d. Do policies address issues in women\u2019s participation and representation and target pockets of vulnerability to promote equity?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 242,
+    "fields": {
+        "label_id": null,
+        "name": "g1e",
+        "question_category_type": 55,
+        "order": 5,
+        "display_text": "1e. Does the lead  Ministry/Institution allocate resources to implement  gender activities included in policies and strategies for this indicator",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 243,
+    "fields": {
+        "label_id": null,
+        "name": "g2a",
+        "question_category_type": 56,
+        "order": 1,
+        "display_text": "2. Do national level stakeholders (government, donors, civil society, research agencies) regularly incorporate gender considerations in studies, reviews or research commissioned to progress this indicator?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 244,
+    "fields": {
+        "label_id": null,
+        "name": "g3a",
+        "question_category_type": 57,
+        "order": 1,
+        "display_text": "3a. Does the lead Ministry/Institution have gender policies to align and inform their investment and do they support national government to fulfill mainstreaming policy goals?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 245,
+    "fields": {
+        "label_id": null,
+        "name": "g3b",
+        "question_category_type": 57,
+        "order": 2,
+        "display_text": "3b. Are resources allocated to implement gender strategies (e.g. participatory approaches, gender assessments, specially targeted projects) for this indicator?",
+        "show_in_summary": true,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 246,
+    "fields": {
+        "label_id": null,
+        "name": "g4a",
+        "question_category_type": 58,
+        "order": 1,
+        "display_text": "4. How often are lead gender agencies included in decision making for this target?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 247,
+    "fields": {
+        "label_id": null,
+        "name": "g5a",
+        "question_category_type": 59,
+        "order": 1,
+        "display_text": "Is there documented institutional  commitment to promote equality in representation between women and men in the water agency; equal compensation for equal work, and equal opportunities for training?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 248,
+    "fields": {
+        "label_id": null,
+        "name": "g6m1",
+        "question_category_type": 60,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 249,
+    "fields": {
+        "label_id": null,
+        "name": "g6m2",
+        "question_category_type": 60,
+        "order": 2,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 250,
+    "fields": {
+        "label_id": null,
+        "name": "g6m3",
+        "question_category_type": 60,
+        "order": 3,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 251,
+    "fields": {
+        "label_id": null,
+        "name": "g6f1",
+        "question_category_type": 60,
+        "order": 4,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 252,
+    "fields": {
+        "label_id": null,
+        "name": "g6f2",
+        "question_category_type": 60,
+        "order": 5,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 253,
+    "fields": {
+        "label_id": null,
+        "name": "g6f3",
+        "question_category_type": 60,
+        "order": 6,
+        "display_text": null,
+        "show_in_summary": true,
+        "default_option": 0,
+        "default_value": "0",
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 254,
+    "fields": {
+        "label_id": null,
+        "name": "g7m1",
+        "question_category_type": 61,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 255,
+    "fields": {
+        "label_id": null,
+        "name": "g7m2",
+        "question_category_type": 61,
+        "order": 2,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 256,
+    "fields": {
+        "label_id": null,
+        "name": "g7m3",
+        "question_category_type": 61,
+        "order": 3,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 257,
+    "fields": {
+        "label_id": null,
+        "name": "g7f1",
+        "question_category_type": 61,
+        "order": 4,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 258,
+    "fields": {
+        "label_id": null,
+        "name": "g7f2",
+        "question_category_type": 61,
+        "order": 5,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 259,
+    "fields": {
+        "label_id": null,
+        "name": "g7f3",
+        "question_category_type": 61,
+        "order": 6,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 260,
+    "fields": {
+        "label_id": null,
+        "name": "g8",
+        "question_category_type": 62,
+        "order": 1,
+        "display_text": "Are there concrete mechanisms (for example, performance-based contracts) in place to compel staff to pursue gender mainstreaming objectives and incentives to reward them for doing so?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 261,
+    "fields": {
+        "label_id": null,
+        "name": "g9m",
+        "question_category_type": 63,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 262,
+    "fields": {
+        "label_id": null,
+        "name": "g9f",
+        "question_category_type": 63,
+        "order": 2,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 263,
+    "fields": {
+        "label_id": null,
+        "name": "g10m",
+        "question_category_type": 64,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 264,
+    "fields": {
+        "label_id": null,
+        "name": "g10f",
+        "question_category_type": 64,
+        "order": 2,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 265,
+    "fields": {
+        "label_id": null,
+        "name": "g11",
+        "question_category_type": 65,
+        "order": 1,
+        "display_text": "Presence of gender-sensitive training at least once a year within responsible water ministries/lead agencies;",
+        "show_in_summary": true,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 266,
+    "fields": {
+        "label_id": "",
+        "name": "t1a",
+        "question_category_type": 67,
+        "order": 1,
+        "display_text": "Structures of accountability",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 267,
+    "fields": {
+        "label_id": "",
+        "name": "t1b",
+        "question_category_type": 67,
+        "order": 2,
+        "display_text": "Transparent policy",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 268,
+    "fields": {
+        "label_id": "",
+        "name": "t2a",
+        "question_category_type": 68,
+        "order": 1,
+        "display_text": "Equitable access",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 269,
+    "fields": {
+        "label_id": "",
+        "name": "t3a",
+        "question_category_type": 69,
+        "order": 1,
+        "display_text": "Transparent and accessible",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 270,
+    "fields": {
+        "label_id": "",
+        "name": "t3b",
+        "question_category_type": 69,
+        "order": 2,
+        "display_text": "Necessary and effective",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 271,
+    "fields": {
+        "label_id": "",
+        "name": "t3c",
+        "question_category_type": 69,
+        "order": 3,
+        "display_text": "Burdens eliminated",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 272,
+    "fields": {
+        "label_id": "",
+        "name": "t3d",
+        "question_category_type": 69,
+        "order": 4,
+        "display_text": "Fighting corruption",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 273,
+    "fields": {
+        "label_id": "",
+        "name": "t4a",
+        "question_category_type": 70,
+        "order": 1,
+        "display_text": "Designed for UNCAC",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 274,
+    "fields": {
+        "label_id": "",
+        "name": "t4b",
+        "question_category_type": 70,
+        "order": 2,
+        "display_text": "Country systems",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 275,
+    "fields": {
+        "label_id": "",
+        "name": "t4c",
+        "question_category_type": 70,
+        "order": 3,
+        "display_text": "Knowledge gathering",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 276,
+    "fields": {
+        "label_id": "",
+        "name": "t4d",
+        "question_category_type": 70,
+        "order": 4,
+        "display_text": "Control supply side of corruption",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 277,
+    "fields": {
+        "label_id": "",
+        "name": "t4e",
+        "question_category_type": 70,
+        "order": 5,
+        "display_text": "Prevent and detect fraud",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 278,
+    "fields": {
+        "label_id": "",
+        "name": "t5a",
+        "question_category_type": 71,
+        "order": 1,
+        "display_text": "Integrity training",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 279,
+    "fields": {
+        "label_id": "",
+        "name": "t5b",
+        "question_category_type": 71,
+        "order": 2,
+        "display_text": "Relevant integrity policies",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 280,
+    "fields": {
+        "label_id": "",
+        "name": "t5c",
+        "question_category_type": 71,
+        "order": 3,
+        "display_text": "Standards of conduct",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 281,
+    "fields": {
+        "label_id": "",
+        "name": "t5d",
+        "question_category_type": 71,
+        "order": 4,
+        "display_text": "Mechanisms for staff compliance",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 282,
+    "fields": {
+        "label_id": "",
+        "name": "t5e",
+        "question_category_type": 71,
+        "order": 5,
+        "display_text": "Bargaining power",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 283,
+    "fields": {
+        "label_id": "",
+        "name": "t5f",
+        "question_category_type": 71,
+        "order": 6,
+        "display_text": "Risks to integrity",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 284,
+    "fields": {
+        "label_id": "",
+        "name": "t5g",
+        "question_category_type": 71,
+        "order": 7,
+        "display_text": "Controls to avoid loopholes",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 285,
+    "fields": {
+        "label_id": "",
+        "name": "t5h",
+        "question_category_type": 71,
+        "order": 8,
+        "display_text": "Transparency",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 286,
+    "fields": {
+        "label_id": "",
+        "name": "t6a",
+        "question_category_type": 72,
+        "order": 1,
+        "display_text": "Reporting channels",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 287,
+    "fields": {
+        "label_id": "",
+        "name": "t6b",
+        "question_category_type": 72,
+        "order": 2,
+        "display_text": "Clearly defined protection",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 288,
+    "fields": {
+        "label_id": "",
+        "name": "t6c",
+        "question_category_type": 72,
+        "order": 3,
+        "display_text": "Robust protection",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 289,
+    "fields": {
+        "label_id": "",
+        "name": "t6d",
+        "question_category_type": 72,
+        "order": 4,
+        "display_text": "Retaliation remedies",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 290,
+    "fields": {
+        "label_id": "",
+        "name": "t6e",
+        "question_category_type": 72,
+        "order": 5,
+        "display_text": "Awareness-raising",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 291,
+    "fields": {
+        "label_id": "",
+        "name": "Baseline",
+        "question_category_type": 73,
+        "order": 1,
+        "display_text": "Baseline (2016)",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 292,
+    "fields": {
+        "label_id": "",
+        "name": "Current",
+        "question_category_type": 19,
+        "order": 2,
+        "display_text": "Current (2017)",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 293,
+    "fields": {
+        "label_id": "",
+        "name": "Aspiration",
+        "question_category_type": 73,
+        "order": 3,
+        "display_text": "Aspiration (2030)",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 294,
+    "fields": {
+        "label_id": "",
+        "name": "Predicted",
+        "question_category_type": 73,
+        "order": 4,
+        "display_text": "Predicted(2030)",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 321,
+    "fields": {
+        "label_id": null,
+        "name": "default1",
+        "question_category_type": 75,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 322,
+    "fields": {
+        "label_id": null,
+        "name": "default1",
+        "question_category_type": 80,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 323,
+    "fields": {
+        "label_id": null,
+        "name": "default1",
+        "question_category_type": 78,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 325,
+    "fields": {
+        "label_id": null,
+        "name": "default1",
+        "question_category_type": 79,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 326,
+    "fields": {
+        "label_id": null,
+        "name": "default1",
+        "question_category_type": 77,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 327,
+    "fields": {
+        "label_id": null,
+        "name": "default1",
+        "question_category_type": 76,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 328,
+    "fields": {
+        "label_id": null,
+        "name": "default2",
+        "question_category_type": 76,
+        "order": 2,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 329,
+    "fields": {
+        "label_id": null,
+        "name": "default2",
+        "question_category_type": 77,
+        "order": 2,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 367,
+    "fields": {
+        "label_id": null,
+        "name": "default1",
+        "question_category_type": 75,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 368,
+    "fields": {
+        "label_id": null,
+        "name": "default1",
+        "question_category_type": 76,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 369,
+    "fields": {
+        "label_id": null,
+        "name": "default1",
+        "question_category_type": 80,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 370,
+    "fields": {
+        "label_id": null,
+        "name": "default1",
+        "question_category_type": 79,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 371,
+    "fields": {
+        "label_id": null,
+        "name": "default1",
+        "question_category_type": 78,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 372,
+    "fields": {
+        "label_id": null,
+        "name": "default2",
+        "question_category_type": 75,
+        "order": 2,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 373,
+    "fields": {
+        "label_id": null,
+        "name": "default2",
+        "question_category_type": 76,
+        "order": 2,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 374,
+    "fields": {
+        "label_id": null,
+        "name": "default1",
+        "question_category_type": 77,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 375,
+    "fields": {
+        "label_id": null,
+        "name": "default2",
+        "question_category_type": 80,
+        "order": 2,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 376,
+    "fields": {
+        "label_id": null,
+        "name": "default2",
+        "question_category_type": 79,
+        "order": 2,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 377,
+    "fields": {
+        "label_id": null,
+        "name": "default2",
+        "question_category_type": 78,
+        "order": 2,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 378,
+    "fields": {
+        "label_id": null,
+        "name": "default2",
+        "question_category_type": 77,
+        "order": 2,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 379,
+    "fields": {
+        "label_id": null,
+        "name": "default3",
+        "question_category_type": 80,
+        "order": 3,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 380,
+    "fields": {
+        "label_id": null,
+        "name": "default4",
+        "question_category_type": 80,
+        "order": 4,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 381,
+    "fields": {
+        "label_id": null,
+        "name": "default5",
+        "question_category_type": 80,
+        "order": 5,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 382,
+    "fields": {
+        "label_id": null,
+        "name": "default6",
+        "question_category_type": 80,
+        "order": 6,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 383,
+    "fields": {
+        "label_id": null,
+        "name": "default3",
+        "question_category_type": 75,
+        "order": 3,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 384,
+    "fields": {
+        "label_id": null,
+        "name": "default3",
+        "question_category_type": 77,
+        "order": 3,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 385,
+    "fields": {
+        "label_id": null,
+        "name": "default3",
+        "question_category_type": 76,
+        "order": 3,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 386,
+    "fields": {
+        "label_id": null,
+        "name": "default3",
+        "question_category_type": 79,
+        "order": 3,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 387,
+    "fields": {
+        "label_id": null,
+        "name": "default3",
+        "question_category_type": 78,
+        "order": 3,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 388,
+    "fields": {
+        "label_id": null,
+        "name": "default4",
+        "question_category_type": 75,
+        "order": 4,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 389,
+    "fields": {
+        "label_id": null,
+        "name": "default5",
+        "question_category_type": 75,
+        "order": 5,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 390,
+    "fields": {
+        "label_id": null,
+        "name": "Year",
+        "question_category_type": 73,
+        "order": 1,
+        "display_text": "Year",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 391,
+    "fields": {
+        "label_id": null,
+        "name": "t7a",
+        "question_category_type": 81,
+        "order": 1,
+        "display_text": "Extra",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 392,
+    "fields": {
+        "label_id": null,
+        "name": "g4_new",
+        "question_category_type": 82,
+        "order": 1,
+        "display_text": null,
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": null,
+        "required": false,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": false
+    }
+},
+{
+    "model": "pss_app.questiontype",
+    "pk": 393,
+    "fields": {
+        "label_id": null,
+        "name": "r15b_new",
+        "question_category_type": 84,
+        "order": 1,
+        "display_text": "What amount of funding is allocated towards post-disaster infrastructure reconstruction for this indicator?",
+        "show_in_summary": false,
+        "default_option": 0,
+        "default_value": "0",
+        "required": true,
+        "non_zero": false,
+        "percentage": false,
+        "numeric": true
+    }
+}
+]
